@@ -1,0 +1,49 @@
+.jumbotron{
+	background-color: #BDBDBD;
+	size: 30px;
+	margin: 0 0;
+	}
+
+.navbar-brand  {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	margin-left: 80px;
+	padding-top: 0;
+	padding-bottom: 10px;
+	padding-right: 80px;
+}
+.navbar-brand span {
+	font-size: 30px;
+	font-family: 'Mr Dafoe', cursive;
+    font-family: 'Dancing Script', cursive;
+   color: black;
+}
+.panel-some{
+	color: blue;
+	font-weight: bold;
+	font-size: 25px;
+	margin-top: 50px;
+}
+.panel-some span{
+	color: black;
+	font-size: 15px;
+}
+.panel-why p h3{
+	color: black;
+}
+.panel-why h1 {
+    outline-style: dotted;
+    font-size: 20px;
+}
+.navbar-left {
+	outline-style: ridge;
+    font-size: 15px;
+
+}
+.navbar-right {
+	outline-style: ridge;
+    font-size: 15px;
+
+}
